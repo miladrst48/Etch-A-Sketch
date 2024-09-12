@@ -1,0 +1,22 @@
+
+.container {
+    border: 1px solid black;
+    margin: 2em auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 560px;
+    height: 560px;
+}
+
+.boxes {
+
+    background-color: rgb(238, 245, 245);
+    box-sizing: border-box;
+}
+
+.gridSet {
+    margin: 1em auto 0.1em auto;
+    display: block;
+    border: none;
+    padding: 0.3rem;
+}
